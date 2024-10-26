@@ -11,8 +11,8 @@ Ce projet est une application web CRUD (Create, Read, Update, Delete) développ�
 
 ## Technologies Utilisées
 
-- **Java 8**
-- **Spring Boot 2.2.6**
+- **Java**
+- **Spring Boot**
 - **Thymeleaf**
 - **Spring Data JPA**
 - **MySQL**
